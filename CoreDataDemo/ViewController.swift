@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  CoreDataDemo
-//
-//  Created by Mayur Bendale on 29/08/24.
-//
-
 import UIKit
 
 class ViewController: UIViewController {

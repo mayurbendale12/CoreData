@@ -1,10 +1,3 @@
-//
-//  PersistentStorage.swift
-//  CoreDataDemo
-//
-//  Created by Mayur Bendale on 29/08/24.
-//
-
 import Foundation
 import CoreData
 
